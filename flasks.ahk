@@ -1,4 +1,4 @@
-# an alternative method of piano rolling flasks - made obsolete by instilling and enkindling orbs. just sharing for those with medical or physical issues.
+; an alternative method of piano rolling flasks - made obsolete by instilling and enkindling orbs. just sharing for those with medical or physical issues. Assigned to `~`
 
 #SingleInstance force
 SetTitleMatchMode, 2
